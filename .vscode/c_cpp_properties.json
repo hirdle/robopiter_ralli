@@ -1,0 +1,76 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/hirdle/Desktop/program_piter_ilya/include",
+                "/home/hirdle/Desktop/program_piter_ilya/src",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/MedianFilterLib2/src",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Servo/src",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit_VL53L0X/src",
+                "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/MedianFilterLib/src",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/SD/src",
+                "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/home/hirdle/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/home/hirdle/.platformio/packages/framework-arduino-avr/variants/mega",
+                "/home/hirdle/Desktop/program_piter_ilya/lib/constants",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit SSD1306",
+                "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Unity/src",
+                "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/hirdle/Desktop/program_piter_ilya/include",
+                    "/home/hirdle/Desktop/program_piter_ilya/src",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/MedianFilterLib2/src",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Servo/src",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit_VL53L0X/src",
+                    "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/MedianFilterLib/src",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/SD/src",
+                    "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/home/hirdle/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/home/hirdle/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "/home/hirdle/Desktop/program_piter_ilya/lib/constants",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Adafruit SSD1306",
+                    "/home/hirdle/Desktop/program_piter_ilya/.pio/libdeps/megaatmega2560/Unity/src",
+                    "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/home/hirdle/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60111",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/home/hirdle/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
